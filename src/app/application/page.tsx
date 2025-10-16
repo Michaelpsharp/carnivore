@@ -10,7 +10,7 @@ export default function ApplicationPage() {
 			</p>
 			<div className="rounded-lg border p-6 space-y-3">
 				<h2 className="font-semibold">Upgrade with shadcn/ui</h2>
-				<p className="text-sm text-muted-foreground">We'll add richer blocks and hover-card prompts next.</p>
+				<p className="text-sm text-muted-foreground">We&apos;ll add richer blocks and hover-card prompts next.</p>
 				<Button>Example Button</Button>
 			</div>
 			<PromptCard
