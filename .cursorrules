@@ -1,0 +1,13 @@
+---
+description: 5 Day Sprint Framework - Task-driven workflows with Claude Code
+globs: **/*
+alwaysApply: true
+---
+
+Rules:
+- Role separation: planning vs implementation
+- Use shadcn/ui ecosystem-first
+- Tailwind v4 with @tailwindcss/postcss
+- Secrets in .env.local only
+
+
